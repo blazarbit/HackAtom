@@ -4,8 +4,8 @@
 
 > **Don't be an exchange, be an Inter-blockchain Payment System!**
 
-* [Blazarbit](https://blazarbit.com/) - a site that clearly shows how you can work with ibc.
-* [github.com/blazarbit](https://github.com/blazarbit) - github project repository, which contains all the developments of this project.
+* [blazarbit.com](https://blazarbit.com/) - a web-site/dapp that clearly shows how you can work with blazarbit protocol.
+* [github.com/blazarbit](https://github.com/blazarbit) - github project repository, which contains all the developments of this project during **HackAtom Seoul 2022**.
 
 ## Content
 * [Content](#Content)
