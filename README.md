@@ -12,7 +12,7 @@
 * [Interface](#Interface)
 * [Architecture](#Architecture)
 * [Database](#Database)
-* [Protocol](#Database)
+* [Protocol](#Protocol)
 * [Repositories](#Repositories)
 
 ## Interface
