@@ -80,7 +80,7 @@
 }
 }
 ```
-# NFT fixed price init
+### NFT fixed price init
 ```
 {
 "cw20_address": "osmo1v75ufqsddpeq38yphd89ztyt8gg2v73hx679yc",
@@ -93,7 +93,7 @@
 "unit_price": "20"
 }
 ```
-# NFT on chain init
+### NFT on chain init
 ```
 {
   "minter": "osmo1w8afpz2xzneplav3dkyadqsrwg3y2u0rre2gk6snnc0eke99r0vswye7pc",
@@ -102,7 +102,7 @@
 }
 ```
 
-# NFT mint
+### NFT mint
 ```
 {
 "mint": {
@@ -112,7 +112,7 @@
 }
 }
 ```
-# NFT mint check
+### NFT mint check
 ```
 {
 owner_of: {
@@ -120,7 +120,7 @@ token_id: 'test-token-id-0'
 }
 }
 ```
-# NFT purchase via our mint logic
+### NFT purchase via our mint logic
 ```
 {
 "purchase_n_f_t": {
@@ -131,6 +131,11 @@ token_id: 'test-token-id-0'
 }
 }
 ```
+### Inter-blockchain cross-contract hop
+```
+//todo: need to provide an exampla later
+```
+
 ## Repositories
 
 * [blazarbit/HackAtom](https://github.com/blazarbit/HackAtom) - blazarbit project root documentation repository
