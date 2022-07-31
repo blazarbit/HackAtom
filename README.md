@@ -22,10 +22,13 @@
  ![](./resources/screenshots/1.png)  |  ![](./resources/screenshots/3.png)  | ![](./resources/screenshots/4.png) |
  ![](./resources/screenshots/2.png)  |                                      | ![](./resources/screenshots/5.png) |
 
-Initial form                        |  On one chain exchange example       | Inter-blockchain NFT purchase       | Modal first state |
-:----------------------------------:|:------------------------------------:|:-----------------------------------:|:----:|
+Initial form                        |  On one chain exchange example       | Inter-blockchain NFT purchase       | Modal first state                  |
+:----------------------------------:|:------------------------------------:|:-----------------------------------:|:----------------------------------:|
 ![](./resources/screenshots/6.png)  |  ![](./resources/screenshots/8.png)  | ![](./resources/screenshots/9.png)  | ![](./resources/screenshots/7.png) |
 
+Initial state                       |  Ready to confirm                    | 
+:----------------------------------:|:------------------------------------:|
+![](./resources/screenshots/10.png)  |  ![](./resources/screenshots/11.png)  |
 
 ## Architecture
 
