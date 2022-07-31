@@ -17,23 +17,14 @@
 
 ## Interface
 
-![](./resources/screenshots/10.PNG)
+ Tokens                              |  NFT                                 | Donation                           |
+:----------------------------------:|:------------------------------------:|:-----------------------------------:|
+ ![](./resources/screenshots/1.png)  |  ![](./resources/screenshots/3.png)  | ![](./resources/screenshots/4.png) |
+ ![](./resources/screenshots/2.png)  |                                      | ![](./resources/screenshots/5.png) |
 
-![](./resources/screenshots/11.PNG)
-
-[comment]: <> ( Tokens                              |  NFT                                 | Donation                            |)
-
-[comment]: <> (:----------------------------------:|:------------------------------------:|:-----------------------------------:|)
-
-[comment]: <> ( ![]&#40;./resources/screenshots/1.PNG&#41;  |  ![]&#40;./resources/screenshots/3.png&#41;  | ![]&#40;./resources/screenshots/4.PNG&#41; |)
-
-[comment]: <> ( ![]&#40;./resources/screenshots/2.PNG&#41;  |                                      | ![]&#40;./resources/screenshots/5.PNG&#41; |)
-
-[comment]: <> (Initial form                        |  On one chain exchange example       | Inter-blockchain NFT purchase       | Modal first state |)
-
-[comment]: <> (:----------------------------------:|:------------------------------------:|:-----------------------------------:|:----:|)
-
-[comment]: <> (![]&#40;./resources/screenshots/6.PNG&#41;  |  ![]&#40;./resources/screenshots/8.png&#41;  | ![]&#40;./resources/screenshots/9.PNG&#41;  | ![]&#40;./resources/screenshots/7.PNG&#41; |)
+Initial form                        |  On one chain exchange example       | Inter-blockchain NFT purchase       | Modal first state |
+:----------------------------------:|:------------------------------------:|:-----------------------------------:|:----:|
+![](./resources/screenshots/6.png)  |  ![](./resources/screenshots/8.png)  | ![](./resources/screenshots/9.png)  | ![](./resources/screenshots/7.png) |
 
 
 ## Architecture
